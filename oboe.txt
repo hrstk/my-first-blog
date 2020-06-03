@@ -1,3 +1,0 @@
-project blog
-	superuser:hrstk
-	pw:robakun
