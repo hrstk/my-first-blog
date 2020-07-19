@@ -6,3 +6,4 @@ henv
 db.sqlite3
 /static
 .DS_Store
+/.vs
